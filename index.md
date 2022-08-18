@@ -5,3 +5,6 @@
 ##### <h5> This is an h5 header </h5>
 ###### <h6> This is an h6 Header </h6> 
 ![image of yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+$ git init
+Initialised empty git repository in /Users/skills/Projects/recipe-repository/.git/
