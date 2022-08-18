@@ -8,3 +8,7 @@
 
 $ git init
 Initialised empty git repository in /Users/skills/Projects/recipe-repository/.git/
+
+- [ ] Turn on Github Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
